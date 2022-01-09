@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    
+display: flex;
+
+}
+
+nav a{
+    font-size: 50px;
+    color:darkblue;
+    text-decoration: none;
+    margin-left: 510px;
+    margin-bottom: 100px;
+    font-weight: bolder;
+  
+    
+}
+
+.mainsection{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-position: center;
+    margin-left: 480px;
+    margin-top: 200px;
+    object-fit: cover;
+   
+}
+
+main{
+    flex: 1;
+display: flex;
+flex-direction: column;
+   
+    justify-content: space-between;
+    
+    
+}
+
+img{
+    height: 200px;
+    align-items: center;
+   
+
+
+
+}
